@@ -1,0 +1,21 @@
+.cuerpo{
+    background: url(../img/arepa5.jpg);
+}
+.buscador{
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.icono-buscador{
+    margin-left: 0px;
+    margin-top: 25px;
+    padding-left: 0px;
+}
+.contenedor-principal{
+    opacity: 0.9;
+}
+.imagen-contenido{
+    width: 100%;
+}
+.imagen-avatar{
+    max-width: 4rem !important;
+}
